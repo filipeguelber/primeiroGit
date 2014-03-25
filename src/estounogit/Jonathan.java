@@ -6,8 +6,8 @@ package estounogit;
 
 /**
  *
- * @author Administrador
+ * @author a12027158
  */
-public class Filipe {
-    //teste Jonathan
+public class Jonathan {
+    //
 }
