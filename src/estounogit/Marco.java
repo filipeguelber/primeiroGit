@@ -8,6 +8,6 @@ package estounogit;
  *
  * @author a12027379
  */
-public class Teste {
+public class Marco {
     
 }
